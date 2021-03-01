@@ -22,7 +22,7 @@ My name is Natan Fernandes and i'm from Brazil! 🇧🇷
 
 +55 79 9****-****54
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanmfernandes@gmail.com)](mailto:natanmfernandes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-natanmfernandes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanmfernandes@gmail.com)](mailto:natanmfernandes@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/natanmfernandes/)](https://www.instagram.com/natanmfernandes/)
 
 
