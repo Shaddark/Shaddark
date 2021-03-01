@@ -9,13 +9,17 @@ My name is Natan Fernandes and i'm from Brazil! 🇧🇷
 ## About Me 👦
 
 • 🏠 Currently living in Aracaju-SE.
+
 • 📚 Bachelor in Information Systems at Universidade Estácio de Sá.
+
 • 🖥 Focusing in Front End Development with the most recent Technologies.
 
 ### Hobbies
 
-• 🎶 **Music**, i do like the oldies, Dream Pop, Shoegazing and Progressive House. 
+• 🎶 **Music**, i do like the oldies, Dream Pop, Shoegazing and Progressive House.
+
 • 🕹 **Gaming**, i'm into every FPS games.
+
 • 🚀 **Networking**, call me! We can be friends.
 
 ## Contact 📞
