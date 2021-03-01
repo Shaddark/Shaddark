@@ -3,7 +3,8 @@
 My name is Natan Fernandes and i'm from Brazil! 🇧🇷 
 
 🔭 I’m currently working as a Support Technician / Front End Developer.
-   *Looking further to be an IT Manager on the future.
+
+💡 *Looking further to be an IT Manager on the future.*
 
 
 ## About Me 👦
@@ -18,7 +19,7 @@ My name is Natan Fernandes and i'm from Brazil! 🇧🇷
 
 • 🎶 **Music**, i do like the oldies, Dream Pop, Shoegazing and Progressive House.
 
-• 🕹 **Gaming**, i'm into every FPS games.
+• 🎮 **Gaming**, i'm into every FPS games.
 
 • 🚀 **Networking**, call me! We can be friends.
 
